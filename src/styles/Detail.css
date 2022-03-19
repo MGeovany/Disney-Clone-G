@@ -1,0 +1,42 @@
+
+
+.container_detail{
+    min-height: calc(100vh - 70px);
+    padding: 0 calc(3.5vw +5px);
+
+    position: relative;
+}
+
+.background{
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    opacity: 0.8;
+
+
+}
+
+.background > img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.imgTitle{
+
+    height: 30vh;
+    min-height: 170px;
+    width: 35vw;
+    
+
+}
+
+.imgTitle > img{
+    width: 100%;
+    height: 100%;
+
+    object-fit: contain;
+}
