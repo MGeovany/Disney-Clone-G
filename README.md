@@ -3,7 +3,7 @@
     https://api.disneyapi.dev/characters#
     
 #### 📽️ Video
-    https://www.youtube.com/watch?v=KOOhPfMbuIQ
+    https://www.youtube.com/watch?v=UUxSFuyuK8Q
     
 
 #### 🖥️ Preview
