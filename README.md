@@ -1,10 +1,12 @@
-#### :tw-1f52f: React JS | Disney+ Clone Website | Using a Disney API
-`https://api.disneyapi.dev/characters#`
+#### ⚛️🪐 React JS | Disney+ Clone Website | Using a Disney API 🪐🚀
 
-#### :tw-1f3a5: Video
-`https://www.youtube.com/watch?v=KOOhPfMbuIQ`
+    https://api.disneyapi.dev/characters#
+    
+#### 📽️ Video
+    https://www.youtube.com/watch?v=KOOhPfMbuIQ
+    
 
-#### :tw-1f4bb: Preview
+#### 🖥️ Preview
 [![](https://fv9-3.failiem.lv/thumb_show.php?i=9sh5umd3p&view)](https://fv9-3.failiem.lv/thumb_show.php?i=9sh5umd3p&view)
 
 [![](https://fv9-2.failiem.lv/thumb_show.php?i=upf2rj2uq&view)](https://fv9-2.failiem.lv/thumb_show.php?i=upf2rj2uq&view)
