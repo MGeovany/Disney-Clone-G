@@ -1,46 +1,26 @@
-# Getting Started with Create React App
+#### :tw-1f52f: React JS | Disney+ Clone Website | Using a Disney API
+`https://api.disneyapi.dev/characters#`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### :tw-1f3a5: Video
+`https://www.youtube.com/watch?v=KOOhPfMbuIQ`
 
-## Available Scripts
+#### :tw-1f4bb: Preview
+[![](https://fv9-3.failiem.lv/thumb_show.php?i=9sh5umd3p&view)](https://fv9-3.failiem.lv/thumb_show.php?i=9sh5umd3p&view)
 
-In the project directory, you can run:
+[![](https://fv9-2.failiem.lv/thumb_show.php?i=upf2rj2uq&view)](https://fv9-2.failiem.lv/thumb_show.php?i=upf2rj2uq&view)
 
-### `npm start`
+[![](https://fv9-1.failiem.lv/thumb_show.php?i=dxvw5vg9r&view)](https://fv9-1.failiem.lv/thumb_show.php?i=dxvw5vg9r&view)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[![](https://fv9-3.failiem.lv/thumb_show.php?i=um33hvj67&view)](https://fv9-3.failiem.lv/thumb_show.php?i=um33hvj67&view)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[![](https://fv9-4.failiem.lv/thumb_show.php?i=u947tg5ka&view)](https://fv9-4.failiem.lv/thumb_show.php?i=u947tg5ka&view)
 
-### `npm test`
+[![](https://fv9-4.failiem.lv/thumb_show.php?i=jxjf9w7xp&view)](https://fv9-4.failiem.lv/thumb_show.php?i=jxjf9w7xp&view)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[![](https://fv9-4.failiem.lv/thumb_show.php?i=kz562n5qg&view)](https://fv9-4.failiem.lv/thumb_show.php?i=kz562n5qg&view)
 
-### `npm run build`
+[![](https://fv9-4.failiem.lv/thumb_show.php?i=kvge722z4&view)](https://fv9-4.failiem.lv/thumb_show.php?i=kvge722z4&view)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[![](https://fv9-1.failiem.lv/thumb_show.php?i=p627vcxcj&view)](https://fv9-1.failiem.lv/thumb_show.php?i=p627vcxcj&view)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[![](https://fv9-2.failiem.lv/thumb_show.php?i=q6q4ma5he&view)](https://fv9-2.failiem.lv/thumb_show.php?i=q6q4ma5he&view)
